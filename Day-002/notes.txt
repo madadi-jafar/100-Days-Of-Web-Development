@@ -1,0 +1,2 @@
+1. Installation of VSCode -> Visual Studio Code from Microsoft.
+2. Install some required extensions
